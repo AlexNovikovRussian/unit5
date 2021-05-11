@@ -1,55 +1,25 @@
-# unit5	1. middle-aged
-
-	2. straight hair
-
-	3. well-built
-
-	4. bald
-
-	5. plump
-
-	6. of medium height
-
-	7. wavy hair
-
-	8. overweight
-
-	9. beard
-
-	10. moustache
-
-	11. freckles
-
-	12. skinny
-
-	13. curly hair
-
-	14. wrinckles
-
-	15. thin
-
-
-
-
-
-	1. shy
-
-	2. selfish
-
-	3. patient
-
-	4. rude
-
-	5. outgoing
-
-	6. honest
-
-	7. generous
-
-	8. cheerful
-
-	9. lasy
-
-	10. popular
-
-	
+1. work out
+2. 
+3. set off
+4. in record time
+5. run away
+6. identity theft
+7. overeat
+8. wear off
+9. replace with
+10. in all
+11. appear in court
+12. prepay
+13. traffic congestion
+14. set up
+15. work out
+16. gain access
+17. armed robbery
+18. wear out
+19. rewrite
+20. 
+21. attachment
+22. work on
+23. run into
+24. spread viruses
+25. underestimate, undervalue
